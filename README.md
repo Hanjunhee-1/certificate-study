@@ -1,2 +1,2 @@
 # certificate-study
-각종 자격증 공부한 것을 모아놓은 repository
+이렇게라도 안하면 정말 아무것도 안할거잖아?
